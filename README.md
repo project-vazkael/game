@@ -1,5 +1,4 @@
 Project Vazkael
-
 > A community-built hack & slash action-RPG set in a medieval fantasy world with a 3D manga/anime art direction.
 ![Status](https://img.shields.io/badge/status-setting%20up-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
