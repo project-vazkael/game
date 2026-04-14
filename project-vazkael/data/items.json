@@ -1,0 +1,15 @@
+{
+  "items": [
+	{
+	  "id": "iron_sword",
+	  "name": "Iron Sword",
+	  "type": "one_handed_sword",
+	  "rarity": "common",
+	  "stats": {
+		"damage": 10,
+		"attack_speed": 1.0
+	  },
+	  "description": "A basic iron sword. Solid and reliable."
+	}
+  ]
+}

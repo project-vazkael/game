@@ -1,0 +1,16 @@
+{
+  "skills": [
+	{
+	  "id": "whirlwind_strike",
+	  "name": "Whirlwind Strike",
+	  "weapon": "one_handed_sword",
+	  "description": "A spinning strike that hits all nearby enemies.",
+	  "tiers": {
+		"1": "Base skill unlocked. Simple animation, base damage.",
+		"2": "Choose: wider area OR concentrated damage on one target.",
+		"3": "Choose: bleed on hit OR shockwave at end OR pull to center.",
+		"4": "Choose: becomes a movement skill OR summons a spectral clone."
+	  }
+	}
+  ]
+}
